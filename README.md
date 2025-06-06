@@ -87,3 +87,10 @@ It provides tools for creating, updating, and reflecting on AI personas through 
       - Ask for clarification about the nature of the task
       - Suggest the most appropriate persona based on the clarified needs
     ```
+
+7. Add some personas and start using them!
+
+    You can use the `createPersona` tool to create new personas. Detailed persona definitions with clear
+    responsibilities, expertise, and communication styles will help Claude understand how to adopt them
+    effectively. It also helps to define their deliverables. For example, here is a [persona for a senior
+    backend engineer](persona-examples/bertha.md).
